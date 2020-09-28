@@ -1,4 +1,6 @@
-# MathJAX 3 extension
+# mathjax3plus extension
+
+Forked from jupyterlab/jupyter-renderers ⋮⋮ https://github.com/jupyterlab/jupyter-renderers
 
 A JupyterLab extension for rendering math with [MathJax 3](https://github.com/mathjax/mathjax).
 
@@ -13,10 +15,10 @@ This extension substitutes the MathJax 2 renderer with the MathJax 3 renderer.
 ## Install
 
 ```bash
-jupyter labextension install @jupyterlab/mathjax3-extension
+jupyter labextension install @marcucius/mathjax3plus
 ```
 
-## Development
+## Development (get away! this is all wrong for now.)
 
 ```bash
 # Clone the repo to your local environment
@@ -48,5 +50,5 @@ npm run watch
 ## Uninstall
 
 ```bash
-jupyter labextension uninstall @jupyterlab/mathjax3-extension
+jupyter labextension uninstall @marcucius/mathjax3plus
 ```
