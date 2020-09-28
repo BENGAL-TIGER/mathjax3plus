@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/BENGAL-TIGER/mathjax3plus/issues"
   },
-  "license": "BSD 3-Clause "New" or "Revised" License",
+  "license": "BSD 3-Clause 'New' or 'Revise' License",
   "author": "marcus ashford",
   "files": [
     "lib/*.d.ts",
